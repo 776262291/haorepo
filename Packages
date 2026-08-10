@@ -1,0 +1,16 @@
+Package: com.nx.stheno
+Version: 77.1.4.6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1928
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/com.nx.stheno_77.1.4.6_iphoneos-arm64.deb
+Size: 362446
+MD5sum: e2a40222b0b6f3bf6410523ba24d54f7
+SHA1: e288e6d4df43b0b748b675d2c45d9dcca2ac74ef
+SHA256: e3fe4cb78f7de96908f89fe2222d054193049d46ef711105e7133641a7f81edd
+Section: Tweaks
+Description: Medusa!
+Author: Crassna
+Name: Stheno
+
